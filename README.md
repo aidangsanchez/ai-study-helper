@@ -4,6 +4,11 @@
 This project is a small AI-powered study helper that takes class notes or study text and generates a short summary. The goal of the project is not to build a complex AI system, but to practice connecting a JavaScript frontend with a Python backend and an open-source NLP model.
 The app is meant to be lightweight and easy to understand, similar to tools students already use when reviewing notes before exams.
 
+📸 Screenshots
+
+![Main Interface](screenshots/main_view.png)
+![Example Summary](screenshots/summary_example.png)
+
 🧠 What It Does
 
 - Accepts pasted study notes from the user
